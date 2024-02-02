@@ -53,7 +53,7 @@
 
 - [Starting Up Security](https://scrty.io) - by Ryan McGeehan. Takeaway: a collection of infosec resources to help teams manage risks. Includes post-mortems, risk assessment tools, and more.
 
-- [Think Like a Software Engineering Manager]([https://scrty.io](https://www.manning.com/books/think-like-a-software-engineering-manager)) - by Akanksha Gupta. Takeaway: A book about the skills you need to hire, train, and lead a successful software development team.
+- [Think Like a Software Engineering Manager](https://www.manning.com/books/think-like-a-software-engineering-manager) - by Akanksha Gupta. Takeaway: A book about the skills you need to hire, train, and lead a successful software development team.
 
 - [We are All Product Owners! An Impact Guide for Engineers](https://medium.com/@erand/we-are-all-product-owners-an-impact-guide-for-engineers-76a2b4342c74) - by Eran Davidov. Takeaway: offers keen advice on how to measure impact, and what to measure.
 
